@@ -1,3 +1,22 @@
+This repo contains Chapter 0 and Chapter 1 of the book described below. 
+This repo is for the first week assignment in Phy 225.
+Students should:
+ - Fork this repo (should happen when you accept the assignment link in Github Classroom)
+ - Read the content.ipynb and summary.ipynb notebooks in each chapter. (You can add private notes in your repo without affecting what others see!)
+   -  00_intro/00_content.ipynb
+   -  01_elements/00_content.ipynb
+   -  01_elements/03_content.ipynb
+   -  01_elements/05_summary.ipynb
+-  Complete the exercises and review notebooks in each chapter. Commit after completing each notebook.
+   -   00_intro/01_excercises_markdown.ipynb
+   -   00_intro/01_review.ipynb
+   -   01_elements/01_excercises_print.ipynb
+   -   01_elements/02_excercises_for-loops.ipynb
+   -   01_elements/04_exercises_calculator.ipynb
+   -   01_elements/06_review.ipynb
+-   Make a final commit (add FINAL to the commit comments) to indicate you have finished the assignment.
+  
+
 # An Introduction to Python and Programming
 
 This project is a *thorough* introductory course
