@@ -1,10 +1,11 @@
 # Chapter 07_sequences
 
-**Due Date:** TBD
+**Due Date:** Wednesday, February 25
 
-**This chapter is *not ready* for Phy 225 students to work on.**
+**This chapter is *ready* for Phy 225 students to work on.**
 
-If you have recently synced your repository and this message is appearing, your instructor is still preparing the materials and exercises for this chapter. Your instructor will alert you when this chapter is ready.
+Students should complete:
+- `02_exercises_lists.ipynb`
 
 **Instructions to open in Github Codespaces:**
 Make sure you are working on your personal fork of intro-to-python.

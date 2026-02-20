@@ -1,8 +1,10 @@
 # Chapter 05_numbers
 
-**Due Date:** TBD
+**Due Date:** wednesday, Feb. 25
 
-**This chapter is *not ready* for Phy 225 students to work on.**
+**This chapter is *ready* for Phy 225 students to work on.**
+Students should complete:
+- `07_exercises_numbers_precision.ipynb`
 
 If you have recently synced your repository and this message is appearing, your instructor is still preparing the materials and exercises for this chapter. Your instructor will alert you when this chapter is ready.
 
