@@ -1,0 +1,5 @@
+Lorentz Factor Calculations
+============================
+GPS satellite (v = 3889 m/s): γ = 1.0000000000841363
+ISS (v = 7660 m/s): γ = 1.0000000003264107
+LHC particle (v = 2.998e+08 m/s): γ = 7071.07
